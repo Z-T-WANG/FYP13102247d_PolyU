@@ -1,6 +1,6 @@
 # FYP13102247d_PolyU
 Applied phyiscs department BSc 13102247dFYP
 
-This was initiated as a final year project of Wang, Zhikang in Hong Kong Polytechnic University, Applied Physics Department, Engineering Physics BSc programme.
+2017/Apr/28, Hong Kong
 
-The very first documentation can be found in the Methodology chapter of FYPreport13102247d.doc at the root of "backup-upon-FYPreport-submission" branch, and the general process to develop this program is also introduced there.
+The description of this program and the project is written in FYPreport13102247d.doc, and this is only the version when the FYP report was written. Some parts are still not finished, such as the "how to use". Modifications latter are in the master branch.
