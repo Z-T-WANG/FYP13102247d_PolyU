@@ -1,5 +1,5 @@
 # FYP13102247d_PolyU
-Applied phyiscs department BsC 13102247dFYP
+Applied phyiscs department BSc 13102247dFYP
 
 This was initiated as a final year project of Wang, Zhikang in Hong Kong Polytechnic University, Applied Physics Department, Engineering Physics BsC programme.
 
