@@ -138,10 +138,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GitSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "CustomMeshComponent",
 			"Enabled": false
 		},
