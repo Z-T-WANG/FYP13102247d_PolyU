@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "MultiDex",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cce07f5135e84dd98738a330b99760a7"
 		},
 		{
@@ -138,6 +138,10 @@
 			"Enabled": false
 		},
 		{
+			"Name": "GitSourceControl",
+			"Enabled": false
+		},
+		{
 			"Name": "CustomMeshComponent",
 			"Enabled": false
 		},
@@ -169,6 +173,18 @@
 		{
 			"Name": "GoogleVRHMD",
 			"Enabled": true
+		},
+		{
+			"Name": "XCodeSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
 		}
 	]
 }
